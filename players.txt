@@ -1,0 +1,31 @@
+0	Radice, Jessica	Jessica Radice	Goalkeeper	Jr.	5-7	Medina, Ohio / Medina
+00	Russo, Abby	Abby Russo	Goalkeeper	Fr.	5-8	Westlake, Ohio / Magnificat
+1	Feczko, Kate	Kate Feczko	Goalkeeper	Fr.	5-7	Pittsburgh, Pa. / Fox Chapel
+4	Cook, Ava	Ava Cook	Forward	Jr.	5-10	Battle Creek, Mich. / Lakeview
+5	Schoolman, Makenna	Makenna Schoolman	Defender	Jr.	5-3	Aurora, Ill. / Metea Valley
+6	Radamaker, Darline	Darline Radamaker	Midfielder	So.	5-3	Sterling Heights, Mich. / Henry Ford II
+7	O	Sydney O'Donnell	Defender	Jr.	5-7	Novi, Mich. / Vanderbilt
+8	Krause, Morgan	Morgan Krause	Midfielder/Defender	So.	5-7	Naperville, Ill. / Iowa
+10	Deloach, Greta	Greta Deloach	Forward	So.	5-7	Grosse Pointe, Mich. / Gross Pointe North
+11	Trombley, Olivia	Olivia Trombley	Defender	Jr.	6-1	St. Johns, Mich. / Michigan State
+12	Steinwascher, Cecilia	Cecilia Steinwascher	Defender	Jr.	5-3	Sterling Heights, Mich. / Henry Ford II
+13	Brown, Cate	Cate Brown	Defender	Fr.	5-9	Bloomfield Hills, Mich. / Seaholm
+14	Bearden, Kennedy	Kennedy Bearden	Forward	Fr.	5-8	Beverly Hills, Mich. / Detroit Country Day
+15	Smolinski, Sarah	Sarah Smolinski	Defender	Fr.	5-4	Commerce Township, Michigan / Mercy
+16	Sagara, Riko	Riko Sagara	Midfield	Sr.	5-4	Tokyo, Japan / Martin Methodist
+17	Irving, Abby	Abigail Irving	Defender	Fr.	5-7	Ada, Mich. / Forest Hills Central
+18	Cochran, Morgan	Morgan Cochran	Forward	Fr.	5-9	Royal Oak, Mich. /
+19	Russell, Brooke	Brooke Russell	Defender	Fr.	5-10	Troy, Mich. / Athens
+20	Dehaan, Haley	Haley DeHaan	Midfielder	So.	5-8	Freeport, Mich. / Thornapple Kellogg
+21	Willerer, Abby	Abby Willerer	Defender	R-So.	5-9	Northville, Mich. / Central Michigan
+23	Parlove, Gigi	Gianna Parlove	Midfielder	R-So.	5-4	Brighton, Mich. / Mercy
+24	Tack, Avery	Avery Tack	Defender	Fr.	5-8	Grand Rapids, Mich. / Forest Hills Central
+25	Baron, Caitie	Caitie Baron	Forward	Jr.	5-4	Novi, Mich. / Xavier
+26	Clanton, Kristy	Kristy Clanton	Forward	Fr.	5-6	Encinitas, Calif. / La Costa Canyon
+28	Graves, Chelsea	Chelsea Graves	Midfielder	So.	5-5	McHenry, Ill. / McHenry West
+29	Wampler, Amelia	Amelia Wampler	Forward	So.	5-10	Zionsville, Ind. / Zionsville
+30	Rich, Callie	Callie Rich	Goalkeeper	So.	5-7	Novi, Mich. / Novi
+32	Ross, Lauren	Lauren Ross	Midfielder	Jr.	5-6	Warren, Mich. / Warren Mott
+33	Robinson, Timia	Timia Robinson	Forward	So.	5-8	Lansing, Mich. / Everett
+34	Klingerman, Hannah	Hannah Klingerman	Forward	Jr.	5-4	Bloomsburg, Pa. / Central Columbia
+88	Carranza, Chantel	Chantel Carranza	Forward	R-Fr.	5-4	St. Charles, Ill. / St. Charles East
