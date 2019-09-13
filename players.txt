@@ -1,31 +1,82 @@
-0	Radice, Jessica	Jessica Radice	Goalkeeper	Jr.	5-7	Medina, Ohio / Medina
-00	Russo, Abby	Abby Russo	Goalkeeper	Fr.	5-8	Westlake, Ohio / Magnificat
-1	Feczko, Kate	Kate Feczko	Goalkeeper	Fr.	5-7	Pittsburgh, Pa. / Fox Chapel
-4	Cook, Ava	Ava Cook	Forward	Jr.	5-10	Battle Creek, Mich. / Lakeview
-5	Schoolman, Makenna	Makenna Schoolman	Defender	Jr.	5-3	Aurora, Ill. / Metea Valley
-6	Radamaker, Darline	Darline Radamaker	Midfielder	So.	5-3	Sterling Heights, Mich. / Henry Ford II
-7	O	Sydney O'Donnell	Defender	Jr.	5-7	Novi, Mich. / Vanderbilt
-8	Krause, Morgan	Morgan Krause	Midfielder/Defender	So.	5-7	Naperville, Ill. / Iowa
-10	Deloach, Greta	Greta Deloach	Forward	So.	5-7	Grosse Pointe, Mich. / Gross Pointe North
-11	Trombley, Olivia	Olivia Trombley	Defender	Jr.	6-1	St. Johns, Mich. / Michigan State
-12	Steinwascher, Cecilia	Cecilia Steinwascher	Defender	Jr.	5-3	Sterling Heights, Mich. / Henry Ford II
-13	Brown, Cate	Cate Brown	Defender	Fr.	5-9	Bloomfield Hills, Mich. / Seaholm
-14	Bearden, Kennedy	Kennedy Bearden	Forward	Fr.	5-8	Beverly Hills, Mich. / Detroit Country Day
-15	Smolinski, Sarah	Sarah Smolinski	Defender	Fr.	5-4	Commerce Township, Michigan / Mercy
-16	Sagara, Riko	Riko Sagara	Midfield	Sr.	5-4	Tokyo, Japan / Martin Methodist
-17	Irving, Abby	Abigail Irving	Defender	Fr.	5-7	Ada, Mich. / Forest Hills Central
-18	Cochran, Morgan	Morgan Cochran	Forward	Fr.	5-9	Royal Oak, Mich. /
-19	Russell, Brooke	Brooke Russell	Defender	Fr.	5-10	Troy, Mich. / Athens
-20	Dehaan, Haley	Haley DeHaan	Midfielder	So.	5-8	Freeport, Mich. / Thornapple Kellogg
-21	Willerer, Abby	Abby Willerer	Defender	R-So.	5-9	Northville, Mich. / Central Michigan
-23	Parlove, Gigi	Gianna Parlove	Midfielder	R-So.	5-4	Brighton, Mich. / Mercy
-24	Tack, Avery	Avery Tack	Defender	Fr.	5-8	Grand Rapids, Mich. / Forest Hills Central
-25	Baron, Caitie	Caitie Baron	Forward	Jr.	5-4	Novi, Mich. / Xavier
-26	Clanton, Kristy	Kristy Clanton	Forward	Fr.	5-6	Encinitas, Calif. / La Costa Canyon
-28	Graves, Chelsea	Chelsea Graves	Midfielder	So.	5-5	McHenry, Ill. / McHenry West
-29	Wampler, Amelia	Amelia Wampler	Forward	So.	5-10	Zionsville, Ind. / Zionsville
-30	Rich, Callie	Callie Rich	Goalkeeper	So.	5-7	Novi, Mich. / Novi
-32	Ross, Lauren	Lauren Ross	Midfielder	Jr.	5-6	Warren, Mich. / Warren Mott
-33	Robinson, Timia	Timia Robinson	Forward	So.	5-8	Lansing, Mich. / Everett
-34	Klingerman, Hannah	Hannah Klingerman	Forward	Jr.	5-4	Bloomsburg, Pa. / Central Columbia
-88	Carranza, Chantel	Chantel Carranza	Forward	R-Fr.	5-4	St. Charles, Ill. / St. Charles East
+1	Tim Irvin	Tim Irvin	DB	5-9	190	Sr.	Miami, Fla.	East Carolina University
+2	Rico Owens	Rico Owens II	RB	5-10	213	Jr.	Greenwood, Miss.	Copiah LIncoln CC
+3	RJ Jarrett	Rodrick "RJ" Jarrett	DB	6-0	185	Jr.	Hollandale, Miss	Copiah-Lincoln CC
+4	Tim Hall	Tim Hall	CB	6-0	185	Jr.	St. Louis, Mo.	Missouri Western State
+5	Deion Dampier	Deion Dampier	RB	5-10	212	Jr.	Pinola, Miss.	Copiah-Lincoln CC
+6	Junior Faulk	Junior Faulk	DB	6-1	200	Jr.	Jayess, Miss.	Southwest Mississippi CC
+7	Patrick Shegog	Patrick Shegog	QB	5-11	185	So.	Batesville, Miss.	South Panola HS
+8	Dayreke Snow	Dayreke Snow	DB	6-1	195	Jr.	Newton, Miss.	Mississippi Gulf Coast CC
+9	Breck Ruddick	Breck Ruddick	QB	6-4	210	R-Sr.	Marion, Ark.	Missouri State University
+10	DeMarcus Johnson	De'Marcus Johnson	WR	6-3	214	Jr.	Port Gibson, Miss	Holmes CC
+11	KJ Breland	KJ Breland	WR	6-1	170	Jr.	Wiggins, Miss.	Pearl River CC
+12	Corintheus Edmonds	Corintheus Edmonds	WR	6-2	195	So.	Hampton, Ga.	Lovejoy HS
+13	Chris Pickett	Chris Pickett	DB	6-0	175	Jr.	Ft. Walton Beach, Fla.	Choctawatchee HS
+14	LJ Hawkins	L.J. Hawkins	WR	6-1	195	Jr.	Water Valley, Miss.	Northeast Mississippi CC
+15	Marvin Terry	Marvin Terry	LB	6-2	220	Jr.	Dallas, Texas	Trinity Valley CC
+16	Jalen Browder	Jalen Browder	WR	6-2	190	Jr.	Dallas, Ga.	Copiah-Lincoln CC
+17	Leon Green 	Leon Green	WR	6-3	200	R-Sr.	Renova, Miss.	East Side HS
+18	Tyler Underwood	Tyler Underwood	QB	6-2	210	Fr.	Theodore, Ala.	Theodore HS
+19	Quan Dampeer	Quan Dampeer	QB	6-1	209	Jr.	Mendenhall, Miss.	Pearl River CC
+20	Ty Woods	Ty Woods	DB	5-10	175	So.	Birmingham, Ala.	Pinson Valley HS
+21	Kobe Richards	Jakobe Richards	DB	6-1	200	Jr.	Cleveland, Miss.	Copiah-Lincoln CC
+22	Sam Barge	Sam Barge	P/K	5-6	190	R-So.	Carrollton, Ga.	Carrollton HS
+23	Takwon Lipscomb	Jakwon Lipscomb	DB	5-11	178	So.	Riverdale, Ga.	Riverdale HS
+24	Trey Roberson	Trey Roberson	RB	5-11	180	Jr.	Mobile, Ala.	McGill-Toolen Catholic
+25	Joseph Stone III	Joseph Stone III	DB	5-7	175	Jr.	Holly Springs, Miss.	Holly Springs HS
+26	Tyrell Goldsmith	Ty Goldsmith	DB	5-10	175	R-Fr.	Hoover, Ala.	Hoover HS
+27	Shannon Carter	Shannon Carter	DB	5-10	175	So.	Fairburn, Ga.	Creekside HS
+28	Keion Wilson	Kelon Wilson	RB	6-0	205	Jr.	Sachse, Texas	Sachse HS
+29	B.J. Sisco	B.J. Sisco	DB	5-10	170	So.	Olive Branch, Miss.	DeSoto Central HS
+30	Vada King	Vada King	LB	6-1	225	Sr.	Smiths Station, Ala.	Holmes CC
+31	Robbie Evans	Robbie Evans	RB	5-8	190	R-Fr.	Boynton Beach, Fla.	Calvary Christian Academy
+32	ryan hudkins headshot	Ryan Hudkins	LB	5-11	225	Sr.	Murrieta, Calif.	Vista Murrieta HS
+33	Dante Williams	Dante Williams	LB	6-2	244	Jr.	Bossier City, La.	Louisiana Tech
+34	Jamarcus Ellison	Jamarcus Ellison	RB	5-9	185	So.	Birmingham, Ala.	Ramsay HS
+35	Joseph Minniefield	Joseph Minniefield	LB	6-2	235	Jr.	Indianola, Miss.	Coahoma CC
+36	John Velasco	John Valesco	LB	6-2	235	Jr.	Miami, Fla.	East Mississippi CC
+37	Zane Samuel	Zane Samuel	DE	6-3	220	R-Jr.	Tuscaloosa, Ala.	Paul Bryant HS
+38	Adrian Hill	Adrian Hill	LB	6-0	190	R-Fr.	Hoover, Ala.	Hoover HS
+39	Joseph Nuttall, Jr.	Joseph Nuttall, Jr.	DB	6-0	200	Sr.	Jackson, Miss.	Hinds CC
+40	Shamar Michael	Shomar Michael	LB	5-10	192	Fr.	Memphis, Tenn.	Germantown HS
+41	Dominique Killens	Dominique Killens Jr.	LB	6-2	207	Fr.	Jacksonville, Fla.	Trinity Christian Acad.
+42	Chris Sehring	Chris Sehring	LB	6-3	215	Fr.	Baton Rouge, La.	St. Michael the Archangel HS
+43	Hunter James	Hunter James	LS	5-10	180	Sr.	Waynesboro, Miss.	Hinds CC
+44	Emanuel Barber	Emanuel Barber	LB	6-4	235	Jr.	Chicago, Ill.	Jones JC
+45	Cayden Reynolds	Cayden Reynolds	K	5-11	183	Fr.	Alexandria, La.	
+46	Dustin Dye	Dustin Dye	LS	5-9	215	Sr.	Olive Branch, Miss.	Desoto Central HS
+47	Timothy Williams	Tim Williams Jr.	DL	6-4	245	R-So.	Greenville, Miss.	Northwest Miss. CC
+48	Raheem Moore	Raheem Moore	TE	6-2	235	So.	Vicksburg, Miss.	Warren Central HS
+49	Eric Sadler	Eric Sadler	DE	6-3	250	R-Sr.	Oklahoma City, Okla.	Northeast Oklahoma A&M
+50	Kaleb Robinson	Kaleb Robinson	OL	6-3	280	Fr.	Lexington, Miss.	Copiah-Lincoln CC
+51	Tahj Perry	Tahj Perry	DL	6-0	275	So.	College Park, Ga.	Creekside HS
+52	Davontre Henderson	Davontre Henderson	LB	6-0	215	So.	Grand Prairie, Texas	South Grand Prairie HS
+53	Marouf  Hamade	Marouf Hamade	OL	6-3	305	Jr.	Detroit, Mich.	Lake Erie College
+54	Drew Swatzell	Drew Swatzell	LB	5-9	200	R-Fr.	Huntsville, Ala.	Huntsville HS
+55	Jaylon Guy	Jaylon Guy	DL	6-3	260	Jr.	Memphis, Tenn.	Kipp Memphis Collegiate HS
+56	Stanley Talley	Stanley Talley	DL	6-1	254	R-So.	Montgomery, Ala.	Carver HS
+57	Keenan Davis	Keenan Davis	OL	6-3	270	R-Jr.	Horn Lake, Miss.	Northwest Mississippi CC
+58	Zarrian Billings	Zarrian Billings	LB	6-1	220	So.	Florence, Ala.	Florence High School
+59	Hunter Williams	Hunter Williams	LB	6-0	220	R-Fr.	Vancleave, Miss.	Vancleave HS
+62	Keshawn Jennings	Keshawn Jennings	OL	6-1	282	Fr.	Marietta, Ga	South Cobb HS
+63	Grant Short	Grant Short	OL	6-3	290	Sr.	Senatobia, Miss.	Southwest Miss. CC
+67	Bryce Jones	Bryce Jones	OL	6-2	288	R-Fr.	Atlanta, Ga.	Peachtree Ridge HS
+68	Sheridan Pratcher	Sheridan Pratcher	OL	6-4	285	R-Fr.	Memphis, Tenn.	Pakhaven HS
+71	Damon Moore	Damon Moore	OL	6-5	285	So.	Birmingham, Ala.	Clay-Chalkville HS
+72	John McNamara	John McNamara	OL	6-10	385	Sr.	St. Louis, Mo.	Lindbergh HS
+73	Nicolas  Melsop	Nicolas Melsop	OL	6-7	305	So.	Columbus, Ohio	Lake Erie College
+75	Braxton Hayles	Braxton Hayles	OL	6-2	310	Jr.	Hazelhurst, Miss.	Southwest Miss. CC
+76	Jacob Gragg	Jacob Gragg	OL	6-3	300	Jr.	Tuscaloosa, Ala.	Northside HS
+78	Innis Claud	Innis Claud V	OL	6-0	290	R-Jr.	Albany, Ga.	Buford HS
+79	tristen mosely headshot	Tristan Moseley	OL	6-4	310	Jr.	Cleveland, Miss.	Copiah-Lincoln CC
+80	Todd Lee Battle	Todd Lee Battle	WR	6-0	185	Fr.	Birmingham, Ala.	Ramsay HS
+81	Oakley Coleman	Oakley Coleman	WR	6-4	180	R-Fr.	Mobile, Ala.	McGill-Toolen Catholic
+82	Jalen Stuckey	Jalen Stuckey	WR	6-1	180	R-Fr.	Decatur, Ga.	Miller Grove HS
+83	Tony Daggett	Tony Daggett	WR	5-8	165	Sr.	Augusta, Ga.	Ventura College
+84	Brock Thompson	Brock Thompson	TE	6-3	230	Jr.	Flora, Miss	Hinds CC
+85	Vincent Wilkerson	Vincent Wilkerson	WR	6-2	206	Sr.	Milwaukee, Wisc.	College of Dupage
+86	Taylor Crabtree	Taylor Crabtree	K	5-8	165	Sr.	Pascagoula, Miss.	East Mississippi CC
+87	Jake McDonald	Jake McDonald	TE	6-3	230	Sr.	New Albany, Miss.	Gulf Coast CC
+88	Ty Harris	Ty Harris	TE	6-2	240	Sr.	Hattiesburg, Miss.	Hinds CC
+89	Cam Shelton	Cam Shelton	WR	6-3	210	R-Fr.	Milton, Fla.	Milton HS
+92	Khalil Johnson	Khalil Johnson	DL	6-4	290	Sr.	Oak Cliff, Texas	University of Memphis
+99	Tylenn Bridges	Tylenn Bridges	DL	6-1	290	Fr.	Hollandale, Miss.	Simmons HS
