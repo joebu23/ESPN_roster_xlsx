@@ -16,7 +16,7 @@ def GetAbvPositionSoccer(position):
 
 
 def GetPositionSoccer(position):
-    if position == 'G':
+    if position == 'GK':
         return 'Goalkeeper'
     if position == 'D':
         return 'Defender'
@@ -26,13 +26,13 @@ def GetPositionSoccer(position):
         return 'Forward'
     if position == 'M/F':
         return 'Mid/Forward'
+    if position == 'F/M':
+        return 'Forward/Mid'
     else:
         return position
 
 
 def GetPositionVolleyball(position):
-    if position == 'L/DS':
-        return 'Defensive Specialist'
     if position == 'DS':
         return 'Defensive Specialist'
     if position == 'L':
@@ -43,6 +43,8 @@ def GetPositionVolleyball(position):
         return 'Setter'
     if position == 'OH':
         return 'Outside Hitter'
+    if position.find('DS') != -1:
+        return 'Defensive Specialist'
     else:
         return position
 
@@ -62,14 +64,14 @@ def FixState(hometown):
         return hometown.replace('Ga.', 'GA')
     if hometown.find('Ky.') != -1:
         return hometown.replace('Ky.', 'KY')
-        if hometown.find('Calif.') != -1:
-            return hometown.replace('Calif.', 'CA')
-        if hometown.find('Wisc.') != -1:
-            return hometown.replace('Wisc.', 'WI')
+    if hometown.find('Calif.') != -1:
+        return hometown.replace('Calif.', 'CA')
+    if hometown.find('Wisc.') != -1:
+        return hometown.replace('Wisc.', 'WI')
     if hometown.find('Wis.') != -1:
         return hometown.replace('Wis.', 'WI')
-        if hometown.find('Pa.') != -1:
-            return hometown.replace('Pa.', 'PA')
+    if hometown.find('Pa.') != -1:
+        return hometown.replace('Pa.', 'PA')
     if hometown.find('Kan.') != -1:
         return hometown.replace('Kan.', 'KS')
     if hometown.find('N.Y.') != -1:
