@@ -1,37 +1,17 @@
-00	Chelsea Reinier	GK	5-4	Jr.	Anna, IL / Anna-Jonesboro Community High School
-1	Zoe Brochu	GK	5-10	Sr.	Ajax, Ontario, Canada / Pickering High School
-2	Allison Frederking	M/F	5-4	Fr.	Weldon Springs, MO / Incarnate Word Academy
-3	Kailey Anderson	M/F	5-6	Sr.	O'Fallon, MO / Fort Zumwalt West High School
-4	Emma Knoebel	M	5-7	So.	Maryville, IL / Collinsville High School
-5	Kate Bixby	M/F	5-5	Sr.	O'Fallon, MO / Fort Zumwalt North High School
-6	Alecza Fernandez	M/F	5-5	Fr.	Ballwin, MO / Parkway High School
-7	Morgan Cervera	F	5-6	Jr.	Saint Peters, MO / Francis Howell Central High School
-8	Morgan Hollenbeck	F	5-5	Jr.	Eureka, MO / Eureka High School
-9	Paula Melsheimer	F	5-2	Fr.	Reil, Germany / Gymnasium Traben-Trarbach
-10	Madyson Mossman	MF/F	5-6	Sr.	St. Louis, MO / Ursuline Academy
-11	Aileen Williams	M/F	5-7	Fr.	Tenterden, Kent, England / Highworth School
-12	Danielle Knutson	D	5-6	Jr.	Maryville, IL / Collinsville High School
-13	Olivia Dreyer	M/F	5-5	So.	Quincy, IL / Quincy Notre Dame High School
-14	Morgan Bova	D	5-8	Fr.	Troy, MO / Troy Buchanan High School
-15	Alynnah O'Leary	MF	5-7	Jr.	Collinsville, IL / Collinsville High School
-16	Elizabeth Goldstein	M	5-2	Fr.	Florissant, MO / Incarnate Word Academy
-17	Kaitlyn Grubbs	M/F	5-9	Sr.	Carbondale, IL / Carbondale High School
-18	Morgan Simms	D	5-4	Sr.	Fenton, MO / Rockwood Summit
-19	Abigail Schacht	M/F	5-4	Fr.	Hillsboro, MO / Hillsboro High Shcool
-20	Elle Basler	M/F	5-11	Jr.	Anna, IL / Anna-Jonesboro High School
-21	Anna Hanger	D	5-4	Sr.	Belleville, IL / Althoff Catholic High School
-22	Sydnee Carroll	F	5-8	Gr.	Millstadt, IL / Belleville West High School
-23	Jennifer Eggert	M/F	5-6	Jr.	Carmel, IN / Carmel High School
-24	Jessica Hoffman	F	5-4	So.	Belleville, IL / Althoff Catholic High School
-25	Linette Lueschow	F	5-5	Fr.	Brussels, Belgium / European School of Brussels III
-26	Raven Robins	D	5-4	Fr.	Fenton, MO / Fox High School
-27	Riley Ross	M	5-5	So.	Springfield, IL / Rochester High School
-28	Karley Kaimann	F	5-4	Jr.	Old Monroe, MO / Winfield High School
-29	Madeline Shea	GK	5-6	Sr.	Racine, WI / St. Catherines High School
-30	Kylie Grubbs	M/F	5-8	Sr.	Carbondale, IL / Carbondale High School
-31	Abigail Tucker	GK	5-10	Fr.	Wentzville, MO / Timberland High School
-32	Rebecca Linck	D	5-4	Jr.	Florissant, MO / Duchesne High School
-33	Kristina Pedersen	D/F	5-10	Fr.	Graested, Denmark / Hillerød Handelsgymnasium
-38	Allisan Whitt	MF	5-1	Sr.	Granite City, IL / Granite City High School
-40	Kelsey Delisle	D/M/F	5-7	Sr.	Collinsville, IL / Collinsville High School
-41	Alexis Ryan	MF	4-11	Sr.	Granite City, IL / Granite City High School
+3	Makenzie Todd	G	Fr.	5-6	Grand Ledge, Mich. / Grand Ledge
+4	Alli Keyser	G	Fr.	5-8	Spring Lake, Mich. / Grand Haven
+5	Morgan Kaniszewski	G	So.	5-9	Au Gres, Mich. / Tawas
+10	Ellie Taylor	G	Jr.	5-9	Midland, Mich. / Dow / St. Louis
+11	Karyssa Austin	G	Jr.	5-6	Marine City, Mich. / Marine City
+12	Kenzie Seeley	G	Jr.	5-6	Alma, Mich. / Alma
+20	Cierra Cole	G	So.	5-2	Durand, Mich. / Durand
+21	Maizie Taylor	G	Fr.	5-8	Midland, Mich. / Dow
+22	Ava DiMilia	F	Fr.	5-11	New Boston, Mich. / Huron
+23	Sophia DiMilia	F	So.	5-11	New Boston, Mich. / Huron / Detroit Mercy
+24	Hunter Viitala	F	Sr.	5-7	Marquette, Mich. / Marquette
+30	Linnie Gustafson	F	So.	6-1	St. Ignace, Mich. / St. Ignace
+31	Adele Kemp	G	Fr.	5-10	Greenville, Mich. / Greenville
+32	Brooke Ditto	F	So.	6-0	Mattawan, Mich. / Mattawan
+34	McKenna Walker	G	RFr.	5-9	Auburn, Mich. / Bay City Western
+40	Hailey Leister	F	Fr.	5-10	Alma, Mich. / Alma
+44	Jayla Strickland	C	So.	6-2	Big Rapids, Mich. / Big Rapids
