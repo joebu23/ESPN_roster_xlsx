@@ -1,17 +1,16 @@
-3	Makenzie Todd	G	Fr.	5-6	Grand Ledge, Mich. / Grand Ledge
-4	Alli Keyser	G	Fr.	5-8	Spring Lake, Mich. / Grand Haven
-5	Morgan Kaniszewski	G	So.	5-9	Au Gres, Mich. / Tawas
-10	Ellie Taylor	G	Jr.	5-9	Midland, Mich. / Dow / St. Louis
-11	Karyssa Austin	G	Jr.	5-6	Marine City, Mich. / Marine City
-12	Kenzie Seeley	G	Jr.	5-6	Alma, Mich. / Alma
-20	Cierra Cole	G	So.	5-2	Durand, Mich. / Durand
-21	Maizie Taylor	G	Fr.	5-8	Midland, Mich. / Dow
-22	Ava DiMilia	F	Fr.	5-11	New Boston, Mich. / Huron
-23	Sophia DiMilia	F	So.	5-11	New Boston, Mich. / Huron / Detroit Mercy
-24	Hunter Viitala	F	Sr.	5-7	Marquette, Mich. / Marquette
-30	Linnie Gustafson	F	So.	6-1	St. Ignace, Mich. / St. Ignace
-31	Adele Kemp	G	Fr.	5-10	Greenville, Mich. / Greenville
-32	Brooke Ditto	F	So.	6-0	Mattawan, Mich. / Mattawan
-34	McKenna Walker	G	RFr.	5-9	Auburn, Mich. / Bay City Western
-40	Hailey Leister	F	Fr.	5-10	Alma, Mich. / Alma
-44	Jayla Strickland	C	So.	6-2	Big Rapids, Mich. / Big Rapids
+2	Elisha Coleman	G	So.	6-2	177	Minneapolis, Minn. / Maranatha Christian Academy
+3	Tommy Lucca	G	Jr.	6-0	180	Kingston, Ill. / Genoa-Kingston
+5	Isaac Appleby	G	Jr.	6-2	190	Eau Claire, Wis. / Eau Claire Memorial
+10	Matt Ojala	G	Fr.	6-1	175	Mohawk, Mich. / Calumet
+11	Jalen Carter	G	So.	5-10	175	Chicago, Ill. / Lindblom
+12	Kyle Clow	F	So.	6-5	200	Germantown, Wis. / Germantown
+14	Dawson Bilski	G	Jr.	6-3	190	Powers, Mich. / Powers North Central
+15	Carter Johnston	G	So.	6-3	185	Beaverton, Mich. / Beaverton
+20	Devin Schmitz	G	R-Fr.	5-11	160	Dollar Bay, Mich. / Dollar Bay
+21	Eric Carl	G	R-Fr.	6-5	190	Kaukauna, Wis. / Kaukauna
+22	Owen White	G	So.	6-6	215	Rhinelander, Wis. / Rhinelander
+30	Kyle Monroe	F	Sr.	6-5	215	Green Bay, Wis. / Ashwaubenon
+32	Trent Bell	F	Jr.	6-7	220	Negaunee, Mich. / Negaunee
+40	Ryan Schuller	F	Sr.	6-10	255	Sturgis, Mich. / Sturgis
+42	TeeAaron Powell	F	So.	6-9	240	South Holland, Ill. / Marian Catholic
+44	Tyler Robarge	C	Fr.	6-8	230	Chippewa Falls, Wis. / Chippewa Falls
