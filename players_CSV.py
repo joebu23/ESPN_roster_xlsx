@@ -27,13 +27,13 @@ class Player:
 
 
 # set these according to what field the item is in.
-playernumber = 0
-playername = 1
-playerposition = 2
-pclass = 3
-playerheight = 4
-playerweight = 5
-playerhometown = 6
+playernumber = 1
+playername = 2
+playerposition = 4
+pclass = 7
+playerheight = 5
+playerweight = 6
+playerhometown = 9
 batsThrows = 4
 filename = sys.argv[1] + ".csv"
 reverseName = sys.argv[2]
