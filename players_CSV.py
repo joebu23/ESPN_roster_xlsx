@@ -27,13 +27,13 @@ class Player:
 
 
 # set these according to what field the item is in.
-playernumber = 1
-playername = 2
-playerposition = 4
-pclass = 7
-playerheight = 5
-playerweight = 6
-playerhometown = 9
+playernumber = 0
+playername = 1
+playerposition = 2
+pclass = 3
+playerheight = 4
+playerweight = 4
+playerhometown = 5
 batsThrows = 4
 filename = sys.argv[1] + ".csv"
 reverseName = sys.argv[2]
@@ -127,7 +127,7 @@ for x in range(0, 100):
             players[x].abbrClass + ',"' + players[x].hometown + '"\n'
     elif sport == 'Basketball':
         playerString = str(x) + "," + str(players[x].number) + "," + players[x].firstname + "," + players[x].lastname + "," + \
-            players[x].position + "," + players[x].height + "," + \
+            players[x].position + "," + players[x].height + "," + players[x].weight + "," + \
             players[x].abbrClass + ',"' + players[x].hometown + '"\n'
     elif sport == 'Lacrosse':
         playerString = str(x) + "," + str(players[x].number) + "," + players[x].firstname + "," + players[x].lastname + ", ," + \

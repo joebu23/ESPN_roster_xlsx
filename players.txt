@@ -1,12 +1,15 @@
-Antonio Marshall 2018 headshot	1	Antonio Marshall		G	6-3	165	So.	1	Detroit, Mich. / Martin Luther King
-Kris Garrett	3	Kris Garrett		G	5-10	145	So.	0	Detroit, Mich. / Renaissance
-James Gordon	4	James Gordon IV		F	6-6	250	Gr.	0	Shelbyville, Ky. / Chicago Simeon (Toledo)
-Kylin Grant	5	Kylin Grant		F	6-6	190	Fr.	0	Detroit, Mich. / Renaissance
-Karim Murray	10	Karim Murray		G	6-1	200	Sr.	3	Detroit, Mich. / Western International
-Brailen Neely	11	Brailen Neely		G	5-10	160	Sr.	0	Detroit, Mich. / Western International (Oakland)
-Darian Owens-White	14	Darian Owens-White		G	6-0	165	Jr.	2	Ypsilanti, Mich. / River Rouge
-Nate Talbot	20	Nate Talbot		F	6-10	245	Fr.	0	Lake Orion, Mich. / Lake Orion
-Cadin Augustine 2019 Head Shot	21	Cadin Augustine		C	6-8	220	Fr.	0	Ypsilanti, Mich. / Ypsilanti
-LJ DeWolf	30	LJ DeWolf		G	6-0	160	So.	1	Ypsilanti, Mich. / Ann Arbor Huron
-Avery Lewis	33	Avery Lewis		F	6-5	215	So.	0	Ann Arbor, Mich. / Huron (Saginaw Valley)
-Xavier Cochran 2018 headshot	RS	Xavier Cochran		G	6-5	200	R-Sr.	1	Ann Arbor, Mich. / Huron (Albany)
+1	Aaliah Hill	F	Sr	5-11	Flint, Mich. / Central Michigan University
+2	Jessica Massey	G	Fr	5-11	Eau Claire, Wis. / Eau Claire Memorial HS
+3	Mariah Cook	G	Sr	5-5	Elkton, Mich. / Laker HS
+4	Maddie Barrie	G	So	5-11	Midland, Mich. / Midland HS
+10	Kaitlyn Zarycki	G	Fr	5-8	Niles, Mich. / Edwardsburg HS
+11	Julia Cianferra	G	Jr	5-7	Utica, Mich. / Henry Ford II HS
+14	Haley Nelson	F	So	5-10	Sandusky, Mich. / Sandusky HS
+20	Maddie Maloney	PG	So	5-8	St. Johns, Mich. / St. Johns HS
+21	Ashley Buchholz	G	So	5-10	Menasha, Wis. / Omro HS
+22	Tori DePerry	F	Fr	5-11	Shawano, Wis. / Shawano Community HS
+24	Kyndall Spires	C	So	6-2	Cardington, Ohio / Cardington-Lincoln HS
+32	Katie Schultz	G	Sr	5-9	Bark River, Mich. / Bark River-Harris HS
+40	Meghan Blaine	G/F	Fr	5-10	Hemlock, Mich. / Michigan Lutheran Seminary HS
+41	Kaitlyn Geers	F	Jr	5-11	Kent City, Mich. / Kent City HS
+44	Tyler Scheid	G/F	Fr	5-10	Coldwater, Mich. / Coldwater HS
