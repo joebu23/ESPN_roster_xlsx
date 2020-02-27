@@ -1,15 +1,14 @@
-1	Aaliah Hill	F	Sr	5-11	Flint, Mich. / Central Michigan University
-2	Jessica Massey	G	Fr	5-11	Eau Claire, Wis. / Eau Claire Memorial HS
-3	Mariah Cook	G	Sr	5-5	Elkton, Mich. / Laker HS
-4	Maddie Barrie	G	So	5-11	Midland, Mich. / Midland HS
-10	Kaitlyn Zarycki	G	Fr	5-8	Niles, Mich. / Edwardsburg HS
-11	Julia Cianferra	G	Jr	5-7	Utica, Mich. / Henry Ford II HS
-14	Haley Nelson	F	So	5-10	Sandusky, Mich. / Sandusky HS
-20	Maddie Maloney	PG	So	5-8	St. Johns, Mich. / St. Johns HS
-21	Ashley Buchholz	G	So	5-10	Menasha, Wis. / Omro HS
-22	Tori DePerry	F	Fr	5-11	Shawano, Wis. / Shawano Community HS
-24	Kyndall Spires	C	So	6-2	Cardington, Ohio / Cardington-Lincoln HS
-32	Katie Schultz	G	Sr	5-9	Bark River, Mich. / Bark River-Harris HS
-40	Meghan Blaine	G/F	Fr	5-10	Hemlock, Mich. / Michigan Lutheran Seminary HS
-41	Kaitlyn Geers	F	Jr	5-11	Kent City, Mich. / Kent City HS
-44	Tyler Scheid	G/F	Fr	5-10	Coldwater, Mich. / Coldwater HS
+0	Zach Pangborn	Sr.	Wing	6-1	180	Grand Rapids, Mich. / Northview	Grand Rapids C.C.
+1	Jarrin Randall	R-Jr.	Wing	6-0	170	Chicago, Ill. / Morgan Park	Western Michigan
+2	Chris Rollins	R-Jr.	Point Guard	6-0	167	Detroit, Mich. / East English Village	IPFW
+3	Avery Hudson	Jr.	Wing	5-10	160	Wayland, Mich. / Wayland Union	
+4	Chris Pearl	R-Sr.	Forward	6-5	210	Otsego, Mich. / Otsego	Siena Heights / Grand Valley State
+5	Janeau Joubert	R-Sr.	Point Guard	6-2	170	Belleville, Mich. / Ypsilanti	Central Michigan
+10	Robbie Bramhill	Sr.	Forward	6-8	200	Fordwich, Ontario / FE Madill Secondary	
+11	Tafari Beckford	R-Jr.	Wing	6-5	193	Skokie, Ill. / Niles North	Oakton C.C.
+21	Chaz Birchfield	So.	Forward	6-5	187	Fort Wayne, Ind. / Hamilton Southeastern	
+22	Alonzo Chatman	R-Jr.	Center	6-8	220	Chicago, Ill. / Morgan Park	Morehead State
+23	Scott Ulaneo	Sr.	Center	6-10	225	Rome, Italy / St. George's International	Seattle / Hawaii Pacific
+24	Evan Hines	R-Jr.	Wing	6-5	205	Skokie, Ill. / Niles West	Minnesota State-Moorhead
+30	Case Conley	Fr.	Wing	6-6	175	Williamston, Mich. / Williamston	
+34	Elijah Belle	Fr.	Point Guard	5-10	180	Detroit, Mich. / Detroit Voyageur	
