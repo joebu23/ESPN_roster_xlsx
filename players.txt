@@ -1,14 +1,18 @@
-0	Zach Pangborn	Sr.	Wing	6-1	180	Grand Rapids, Mich. / Northview	Grand Rapids C.C.
-1	Jarrin Randall	R-Jr.	Wing	6-0	170	Chicago, Ill. / Morgan Park	Western Michigan
-2	Chris Rollins	R-Jr.	Point Guard	6-0	167	Detroit, Mich. / East English Village	IPFW
-3	Avery Hudson	Jr.	Wing	5-10	160	Wayland, Mich. / Wayland Union	
-4	Chris Pearl	R-Sr.	Forward	6-5	210	Otsego, Mich. / Otsego	Siena Heights / Grand Valley State
-5	Janeau Joubert	R-Sr.	Point Guard	6-2	170	Belleville, Mich. / Ypsilanti	Central Michigan
-10	Robbie Bramhill	Sr.	Forward	6-8	200	Fordwich, Ontario / FE Madill Secondary	
-11	Tafari Beckford	R-Jr.	Wing	6-5	193	Skokie, Ill. / Niles North	Oakton C.C.
-21	Chaz Birchfield	So.	Forward	6-5	187	Fort Wayne, Ind. / Hamilton Southeastern	
-22	Alonzo Chatman	R-Jr.	Center	6-8	220	Chicago, Ill. / Morgan Park	Morehead State
-23	Scott Ulaneo	Sr.	Center	6-10	225	Rome, Italy / St. George's International	Seattle / Hawaii Pacific
-24	Evan Hines	R-Jr.	Wing	6-5	205	Skokie, Ill. / Niles West	Minnesota State-Moorhead
-30	Case Conley	Fr.	Wing	6-6	175	Williamston, Mich. / Williamston	
-34	Elijah Belle	Fr.	Point Guard	5-10	180	Detroit, Mich. / Detroit Voyageur	
+1	Brandon Haraway	G	6-2	180	Fr.	Norwalk, Ohio / Norwalk
+3	Colin Nieberding	G	6-1	170	Jr.	Avon, Ohio / St. Ignatius
+4	Dylan Beaugard	G	5-8	185	So.	Wilmington, Ohio / Wilmington
+5	Aaron Thompson	G	6-3	185	R-Jr.	Toledo, Ohio / Toledo St. John's
+10	Luke Metzger	G	6-1	170	Fr.	Maumee, Ohio / Maumee
+11	Rodrick Caldwell	G	6-0	170	Sr.	Dayton, Ohio / Wayne / Bowling Green State
+14	Kevin Mealwitz	G	6-2	175	Fr.	LaGrange, Ohio / Keystone
+15	Drew Noble	C	6-8	230	Sr.	Louisville, Ohio / Louisville
+20	Anton Webb	G/F	6-8	185	Fr.	Miamisburg, Ohio / Dayton Christian
+22	CJ Karsatos	F	6-7	190	Fr.	Columbus, Ohio / Upper Arlington
+23	Bryce Drews	F	6-4	200	R-Fr.	Hillsdale, Mich. / Hillsdale
+32	Matt Mealwitz	G	6-4	175	Fr.	LaGrange, Ohio / Keystone
+33	Ethan Conley	G	6-5	185	Fr.	Englewood, Ohio / Franklin Monroe
+34	Parker Brady	G	6-3	190	Sr.	Lancaster, Ohio / Fisher Catholic
+40	Derek Koch	F	6-8	250	Jr.	West Salem, Ohio / Northwestern / Bowling Green State
+42	Andrew Keep	F	6-4	185	Fr.	Hilliard, Ohio / Hilliard Bradley
+45	LaMar Sharpe	C	6-7	200	Fr.	Canton, Ohio / GlenOak
+50	Josh Hlavaty	F	6-5	190	So.	Jeromesville, Ohio / Temple Christian

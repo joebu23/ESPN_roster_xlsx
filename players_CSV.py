@@ -29,10 +29,10 @@ class Player:
 # set these according to what field the item is in.
 playernumber = 0
 playername = 1
-playerposition = 3
-pclass = 2
-playerheight = 4
-playerweight = 5
+playerposition = 2
+pclass = 5
+playerheight = 3
+playerweight = 4
 playerhometown = 6
 batsThrows = 4
 filename = sys.argv[1] + ".csv"
