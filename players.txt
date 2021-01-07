@@ -1,18 +1,17 @@
-1	Brandon Haraway	G	6-2	180	Fr.	Norwalk, Ohio / Norwalk
-3	Colin Nieberding	G	6-1	170	Jr.	Avon, Ohio / St. Ignatius
-4	Dylan Beaugard	G	5-8	185	So.	Wilmington, Ohio / Wilmington
-5	Aaron Thompson	G	6-3	185	R-Jr.	Toledo, Ohio / Toledo St. John's
-10	Luke Metzger	G	6-1	170	Fr.	Maumee, Ohio / Maumee
-11	Rodrick Caldwell	G	6-0	170	Sr.	Dayton, Ohio / Wayne / Bowling Green State
-14	Kevin Mealwitz	G	6-2	175	Fr.	LaGrange, Ohio / Keystone
-15	Drew Noble	C	6-8	230	Sr.	Louisville, Ohio / Louisville
-20	Anton Webb	G/F	6-8	185	Fr.	Miamisburg, Ohio / Dayton Christian
-22	CJ Karsatos	F	6-7	190	Fr.	Columbus, Ohio / Upper Arlington
-23	Bryce Drews	F	6-4	200	R-Fr.	Hillsdale, Mich. / Hillsdale
-32	Matt Mealwitz	G	6-4	175	Fr.	LaGrange, Ohio / Keystone
-33	Ethan Conley	G	6-5	185	Fr.	Englewood, Ohio / Franklin Monroe
-34	Parker Brady	G	6-3	190	Sr.	Lancaster, Ohio / Fisher Catholic
-40	Derek Koch	F	6-8	250	Jr.	West Salem, Ohio / Northwestern / Bowling Green State
-42	Andrew Keep	F	6-4	185	Fr.	Hilliard, Ohio / Hilliard Bradley
-45	LaMar Sharpe	C	6-7	200	Fr.	Canton, Ohio / GlenOak
-50	Josh Hlavaty	F	6-5	190	So.	Jeromesville, Ohio / Temple Christian
+0	Darnell Hoskins Jr.	G	Sr	5-11	175	Dayton, Ohio / Victory Rock Prep
+1	Malik Ellison	G	Sr	5-9	170	Flint, Mich. / Eastern Michigan University
+2	Brian Booker	G	RFr	6-0	185	Saginaw, Mich. / Heritage HS
+3	Myles Belyeu	G	Jr	6-3	220	Trotwood, Ohio / Trotwood-Madison HS
+4	Tyrik Singh	F	Jr	6-7	225	San Fernando, Trinidad / San Fernando Central Secondary School
+5	Tre Garrett	G	So	6-3	175	Saginaw, Mich. / Bridgeport HS
+10	Freddie McIntosh	G	Fr	5-11	180	Saginaw, Mich. / Saginaw HS
+11	Innocent Nwoko	C	Sr	7-0	235	New Haven, Mich. / Central Michigan University
+12	Steven Post	F	Fr	6-10	205	Nijkerk, Netherlands / Center for Sports and Education Zwolle
+13	Delano Smith	G	Sr	6-4	205	Novi, Mich. / Davenport University
+14	Zane Foster	C	Fr	7-1	200	Puyallup, Wash. / Puyallup HS
+15	James Toohey	G	Sr	6-2	195	Canberra, Australia / Marist College Canberra
+21	Gabe Hawes	G	Fr	6-2	175	Laingsburg, Mich. / Laingsburg HS
+22	Vernon Nash III	G	Fr	5-11	180	Muskegon, Mich. / Muskegon HS
+23	Victor Young	G	Fr	6-4	210	Muncie, Ind. / Muncie Central HS
+32	Jarno Pomstra	F	So	7-2	220	Wieringerwerf, Netherlands / BV Noordkop
+33	Nick Thran	G	So	6-2	180	Den Helder, Netherlands / BV Noordkop

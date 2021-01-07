@@ -30,9 +30,9 @@ class Player:
 playernumber = 0
 playername = 1
 playerposition = 2
-pclass = 5
-playerheight = 3
-playerweight = 4
+pclass = 3
+playerheight = 4
+playerweight = 5
 playerhometown = 6
 batsThrows = 4
 filename = sys.argv[1] + ".csv"
@@ -127,8 +127,8 @@ for x in range(0, 100):
             players[x].abbrClass + ',"' + players[x].hometown + '"\n'
     elif sport == 'Basketball':
         playerString = str(x) + "," + str(players[x].number) + "," + players[x].firstname + "," + players[x].lastname + "," + \
-            players[x].position + "," + players[x].height + "," + players[x].weight + "," + \
-            players[x].abbrClass + ',"' + players[x].hometown + '"\n'
+            players[x].position + ',"' + players[x].hometown + '",' + players[x].height + "," + players[x].weight + "," + \
+            players[x].abbrClass + '\n'
     elif sport == 'Lacrosse':
         playerString = str(x) + "," + str(players[x].number) + "," + players[x].firstname + "," + players[x].lastname + ", ," + \
             players[x].position + ", ," + players[x].height + ", ," + \
