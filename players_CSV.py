@@ -30,10 +30,10 @@ class Player:
 playernumber = 0
 playername = 1
 playerposition = 2
-pclass = 3
-playerheight = 4
-playerweight = 5
-playerhometown = 6
+pclass = 4
+playerheight = 3
+playerweight = 3
+playerhometown = 5
 batsThrows = 4
 filename = sys.argv[1] + ".csv"
 reverseName = sys.argv[2]
